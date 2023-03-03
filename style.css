@@ -1,0 +1,496 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.back-ground{
+    width: 100%;
+    height: 750px;
+}
+.restaurant1{
+    position: fixed;
+    width:170px;
+    height: 69px;
+    top: 30px;
+    left: 65px;
+}
+.links {
+    position: fixed;
+    top: 35px;
+    right: 120px;
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    padding: 11px;
+    font-size: 25px;
+}
+.links a:hover {
+    color: rgb(226, 120, 93);
+}
+.resyaurent2{
+    position: absolute;
+    width: 400px;
+    height: 265px;
+    top: 120px;
+    left: 550px;
+}
+.head1{
+    position: absolute;
+    top: 360px;
+    left: 500px;
+    color: white;
+    font-size: 61px;
+    font-family: 'Lora', serif;
+}
+.head2{
+    position: absolute;
+    top: 450px;
+    left: 540px;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 38px;
+}
+.learn-more{
+    position: absolute;
+    top: 550px;
+    height:47px;
+    width: 120px;
+    left: 630px;
+    background-color: rgba(243, 204, 154, 0.856);
+    border-radius: 5px;
+}
+.span1{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 12px;
+    left: 23px;
+}
+.Book-a-Visit{
+    position: absolute;
+    top: 550px;
+    height:47px;
+    width: 120px;
+    left: 770px;
+    background-color: white;
+    border-radius: 5px;
+
+}
+.span2{
+    position: absolute;
+    z-index: 1;
+    color: black;
+    top: 12px;
+    left: 23px;
+
+}
+.screen{
+    position: absolute;
+    top: 830px;
+    left:820px;
+    height:600px;
+    width: 740px;
+    
+}
+.cheff{
+    position: absolute;
+    top: 750px;
+    left:270px;
+    height:750px;
+    width: 500px;
+    
+}
+.pointer{
+    position: absolute;
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    height: 750px;
+    top: 1585px;
+}
+.screen3{
+    position: absolute;
+    width: 640px;
+    height: 620px;
+    top: 1630px;
+    left: 160px;
+}
+.screen4{
+    position: absolute;
+    width: 570px;
+    height: 465px;
+    top: 1730px;
+    left: 875px;
+}
+.image55{
+    position: absolute;
+    width: 100%;
+    height: 510px;
+    top: 2330px;
+    left: 0px;
+    box-shadow: 2px 7px 48px 0px  
+    rgba(0,0,0,0.9);
+
+}
+.pointer2{
+    position: absolute;
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    height: 1550px;
+    top: 2890px;
+
+}
+.para3{
+    position: absolute;
+    top:  2912px;
+    left: 700px;
+    font-size: 37px;
+    font-family: 'Playfair Display', serif;
+}
+.para4{
+    position: absolute;
+    top:  2980px;
+    left: 710px;
+    font-size: 29px;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(170, 146, 117);
+}
+.photo{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3055px;
+    left: 237px;
+    
+}
+.photo2{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3055px;
+    left: 665px;
+    
+}
+.photo3{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3055px;
+    left: 1095px;
+    
+}
+.heed{
+    position: absolute;
+    top: 3390px;
+    left: 362px;
+    color: rgb(75, 73, 73);
+}
+
+.heed2{
+    position: absolute;
+    top: 3390px;
+    left: 772px;
+    color: rgb(75, 73, 73);
+}
+.heed3{
+    position: absolute;
+    top: 3390px;
+    left: 1195px;
+    color: rgb(75, 73, 73);
+
+}
+.para88{
+    position: absolute;
+    top: 3437px;
+    left: 237px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+}
+.span7{
+    position: absolute;
+    left: 50px;
+}
+    
+.para99{
+    position: absolute;
+    top: 3437px;
+    left: 670px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+
+}
+.span8{
+    position: absolute;
+    left: 50px;
+}
+.para44{
+    position: absolute;
+    top: 3437px;
+    left: 1100px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+
+
+}
+.span9{
+    position: absolute;
+    left: 50px;
+
+}
+.gallery55{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3590px;
+    left: 237px;
+    
+}
+.gallery66{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3590px;
+    left: 665px;
+    
+}
+.gallery77{
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    top: 3590px;
+    left: 1095px;
+    
+}
+.heed1322{
+    position: absolute;
+    top: 3940px;
+    left: 362px;
+    color: rgb(75, 73, 73);
+
+}
+.heed2111{
+    position: absolute;
+    top: 3940px;
+    left: 772px;
+    color: rgb(75, 73, 73);
+
+}
+.heed33333{
+    position: absolute;
+    top: 3940px;
+    left: 1195px;
+    color: rgb(75, 73, 73);
+
+}
+.para444{
+    position: absolute;
+    top: 4000px;
+    left: 237px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+}
+.span110{
+    position: absolute;
+    left: 50px;
+}
+    
+.para555{
+    position: absolute;
+    top: 4000px;
+    left: 670px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+
+}
+.span920{
+    position: absolute;
+    left: 50px;
+}
+.para666{
+    position: absolute;
+    top: 4000px;
+    left: 1100px;
+    color: rgb(75, 73, 73);
+    font-size: 18px;
+
+
+}
+.span936{
+    position: absolute;
+    left: 50px;
+
+}
+.button122{
+    position: absolute;
+    top: 4145px;
+    height:47px;
+    width: 120px;
+    left: 790px;
+    background-color:rgb(193, 171, 132);
+    border-radius: 10px;
+}
+.span122{
+    position: absolute;
+    z-index: 1;
+    color: white;
+    top: 12px;
+    left: 19px;
+}
+
+.button122 :hover {
+    color: rgb(255, 0, 98);
+}
+.finish{
+    position: absolute;
+    width: 100%;
+    top: 4280px;
+    height: 580px;  
+    opacity: 0.8;
+}
+.comments{
+    position: absolute;
+    top: 4380px;
+    left: 820px;
+    width: 90px;
+}
+.parag{
+    position: absolute;
+    top: 4450px;
+    left: 735px;
+    color: white;
+    font-size: 35px;
+    font-family: 'Amiri', serif;
+}
+.parap{
+    position: absolute;
+    top: 4550px;
+    left: 350px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.spano{
+    position: absolute;
+    left: 120px;
+}
+.john{
+    position: absolute;
+    top: 4700px;
+    left: 810px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.micro{
+    position: absolute;
+    top: 45px;
+    left: 10px;
+}
+.soso{
+    position: absolute;
+    top: 4860px;
+    width: 100%;
+    
+}
+.nooooo{
+    position: absolute;
+    top: 5590px;
+    width: 100%;
+
+}
+.divo{
+    position: absolute;
+    top: 6000px;
+    background-color: rgb(53, 51, 48);
+    width: 100%;
+    height: 500px;
+}
+.finishing{
+    position: absolute;
+    top: 6070px;
+    left: 650px;
+}
+.small{
+    position: absolute;
+    top: 6320px;
+    left: 750px;
+    color: rgb(151, 149, 149);
+
+}
+.imgg{
+    position: absolute;
+    top: 6350px;
+    left: 720px;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    background-color:darkgray;
+    border-radius: 50px;
+}
+
+div .imgg:hover{
+    background-color: rgb(95, 95, 206);
+}
+.imgg2{
+    position: absolute;
+    top: 6350px;
+    left: 780px;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    background-color:rgb(163, 157, 157);
+    border-radius: 50px;
+
+}
+
+div .imgg2:hover{
+    background-color:rgb(122, 12, 12);
+}
+.imgg3{
+    position: absolute;
+    top: 6350px;
+    left: 840px;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    background-color:rgb(163, 157, 157);
+    border-radius: 50px;
+
+}
+
+div .imgg3:hover{
+    background-color:rgb(84, 104, 82);
+}
+.img4{
+    position: absolute;
+    top: 6350px;
+    left: 900px;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    background-color:rgb(110, 110, 189);
+    border-radius: 50px;
+}
+
+
+div .imgg4:hover{
+    background-color:rgb(84, 104, 82);
+}
+
+
+
+
+
+/* .cccc{
+    position: absolute;
+    top: 6350px;
+    left: 750px;
+    width: 50px;
+    height: 50px;
+    border-radius: calc(50px );
+    background-color: darkgray;
+    
+} */
